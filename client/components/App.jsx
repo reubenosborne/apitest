@@ -1,8 +1,10 @@
 import React from 'react'
+import Input from './Input';
+// import Result from './Result';
 
 const App = () => {
   return (
-    <h1>React development has begun!</h1>
+    <Input />
   )
 }
 
